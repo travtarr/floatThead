@@ -797,7 +797,11 @@
               top = scrollingTop;
               triggerFloatEvent(true);
             }
-            left = tableOffset.left + scrollContainerLeft - windowLeft;
+            if ($scrollContainer.length < 1) {
+              left = tableOffset.left - windowLeft;
+            } else {
+              left = tableOffset.left + scrollContainerLeft - windowLeft;
+            }
           }
           return {top: Math.round(top), left: Math.round(left)};
         };
