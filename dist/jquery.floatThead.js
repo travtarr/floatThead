@@ -1,13 +1,13 @@
-// @preserve jQuery.floatThead 1.4.5 - http://mkoryak.github.io/floatThead/ - Copyright (c) 2012 - 2016 Misha Koryak
+// @preserve floatThead-angular 1.4.6 
 // @license MIT
 
-/* @author Misha Koryak
+/* @author Travis Tarr
  * @projectDescription lock a table header in place while scrolling - without breaking styles or events bound to the header
  *
  * Dependencies:
  * jquery 1.9.0 + [required] OR jquery 1.7.0 + jquery UI core
  *
- * http://mkoryak.github.io/floatThead/
+ * https://travtarr.github.io/floatThead-angular/
  *
  * Tested on FF13+, Chrome 21+, IE8, IE9, IE10, IE11
  *
