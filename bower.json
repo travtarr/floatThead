@@ -1,10 +1,10 @@
 {
-  "name": "jquery.floatThead",
-  "homepage": "http://mkoryak.github.io/floatThead/",
+  "name": "jquery.floatThead-angular",
+  "homepage": "https://github.com/travtarr/floatThead",
   "authors": [
-    "Misha Koryak"
+    "Travis Tarr"
   ],
-  "description": "Unobtrusively float any table's header without breaking styles or events",
+  "description": "Unobtrusively float any table's header without breaking styles or events, allows for integration with Angular 1.5.8",
   "main": [
     "dist/jquery.floatThead.js",
     "dist/jquery.floatThead.min.js"
