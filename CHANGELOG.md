@@ -1,3 +1,6 @@
+### 1.4.6
+- added check for scroll container when repositioning the header, previously attempted to retrieve values from an undefined container
+
 ### 1.4.5
 
 - #334 - fix memory leaks from print events
