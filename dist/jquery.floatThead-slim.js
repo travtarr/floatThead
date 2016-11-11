@@ -1,4 +1,4 @@
-// @preserve floatThead-angular 1.4.6 
+// @preserve floatThead-angular 1.4.7
 // @license MIT
 
 /* @author Travis Tarr
